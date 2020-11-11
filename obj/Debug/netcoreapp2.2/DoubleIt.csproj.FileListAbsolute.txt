@@ -1,0 +1,11 @@
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.AssemblyInfoInputs.cache
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.AssemblyInfo.cs
+C:\Users\austi\Desktop\Projects\double-it\bin\Debug\netcoreapp2.2\DoubleIt.deps.json
+C:\Users\austi\Desktop\Projects\double-it\bin\Debug\netcoreapp2.2\DoubleIt.runtimeconfig.json
+C:\Users\austi\Desktop\Projects\double-it\bin\Debug\netcoreapp2.2\DoubleIt.runtimeconfig.dev.json
+C:\Users\austi\Desktop\Projects\double-it\bin\Debug\netcoreapp2.2\DoubleIt.dll
+C:\Users\austi\Desktop\Projects\double-it\bin\Debug\netcoreapp2.2\DoubleIt.pdb
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.dll
+C:\Users\austi\Desktop\Projects\double-it\obj\Debug\netcoreapp2.2\DoubleIt.pdb
